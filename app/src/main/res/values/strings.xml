@@ -1,3 +1,118 @@
 <resources>
     <string name="app_name">MintFlow</string>
+    <string name="text1">Spend Smarter </string>
+    <string name="text2">Save More</string>
+    <string name="text3">Already have account?</string>
+    <string name="text4"> Log In</string>
+    <string name="text5">Apple</string>
+    <string name="text6">Google</string>
+    <string name="text7">LogIn</string>
+    <string name="text8">Don’t have an account yet?</string>
+    <string name="text9">Sign Up</string>
+    <string name="text10">Forgot Password?</string>
+    <string name="text11">By signing up, you agree to the</string>
+    <string name="text12">Terms of Service and Privacy Policy</string>
+    <string name="text13">Or with</string>
+    <string name="text14">Create Account</string>
+    <string name="text15">SignUp with Google</string>
+    <string name="text16">Good afternoon,</string>
+    <string name="text17">Enjelin Morgeana</string>
+    <string name="text18">$ 2,548.00</string>
+    <string name="text19">Total Balance</string>
+    <string name="text20">Income</string>
+    <string name="text21">Expenses</string>
+    <string name="text22">$ 1,840.00</string>
+    <string name="text23">$ 284.00</string>
+    <string name="text24">Transactions history</string>
+    <string name="text25">See all</string>
+    <string name="text26">Shopping</string>
+    <string name="text27">Buy some grocery</string>
+    <string name="text28">10:00 AM</string>
+    <string name="text29">- $120</string>
+    <string name="text30">Add Income</string>
+    <string name="text31">TITLE</string>
+    <string name="text32">AMOUNT</string>
+    <string name="text33">CATEGORY</string>
+    <string name="text34">DATE</string>
+    <string name="text35">Continue</string>
+    <string name="text36">You don’t have a budget.
+Let’s make one so you in control.</string>
+    <string name="text37">Create category Budget</string>
+    <string name="text38">Create Budget</string>
+    <string name="text39">How much do yo want to spend?</string>
+    <string name="text40">Receive Alert</string>
+    <string name="text41">Receive alert when it reaches some point.</string>
+    <string name="text42">$</string>
+    <string name="text43">You’ve exceed the limit!</string>
+    <string name="text44">Remaining $0</string>
+    <string name="text45">$1200 of $1000</string>
+    <string name="text46">Profile</string>
+    <string name="text47">Sonal Perera</string>
+    <string name="text48">\@sonal_perera</string>
+    <string name="text49">Settings</string>
+    <string name="text50">Export Data</string>
+    <string name="text51">Restore Data</string>
+    <string name="text52">Logout</string>
+    <string name="text53">Detail Transaction</string>
+    <string name="text54">Saturday 4 June 2021 16:20</string>
+    <string name="text55">Type</string>
+    <string name="text56">Category</string>
+    <string name="text57">Expense</string>
+    <string name="text58">Edit</string>
+    <string name="text59">Currency</string>
+    <string name="text60">USD</string>
+    <string name="text61">Theme</string>
+    <string name="text62">Dark</string>
+    <string name="text63">Light</string>
+    <string name="text64">Default</string>
+    <string name="text65">See your financial report</string>
+    <string name="text66">Track your transaction easily, with categories and financial report </string>
+    <string name="text67">Know where your  money goes</string>
+    <string name="text68">Budget Alerts</string>
+    <string name="text69">Reminder Alerts</string>
+    <string name="text70">Monthly Budget</string>
+    <string name="text71">Budget Exceeded!</string>
+    <string name="text72">set Budget</string>
+
+
+    <string name="btn_text1">Get Started</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>">
+
+
+    <string name="hint1">your@email.com</string>
+    <string name="hint2">••••••••</string>
+    <string name="hint3">Name</string>
+    <string name="hint4">Email</string>
+    <string name="hint5">Password</string>
+    <string name="hint6">dd/mm/yyyy</string>
+    <string name="hint7">Enter title</string>
+    <string name="hint8">Enter amount</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

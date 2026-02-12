@@ -1,5 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="primary">#6358E3</color>
     <color name="black">#FF000000</color>
+    <color name="light_black">#222222</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="snow">#CFE5E3</color>
+    <color name="light_white">#F6F6F6</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucent">#2FFFFFFF</color>
+    <color name="light_grey">#69AEA9</color>
+    <color name="dark_grey">#438883</color>
+    <color name="super_dark_grey">#444444</color>
+    <color name="light_blue">#EEE5FF</color>
+    <color name="sky_blue">#8279E9</color>
+    <color name="text_color1">#1F2937</color>
+    <color name="green">#00A86B</color>
+    <color name="red">#FD3C4A</color>
+    <color name="default_white_background">#FDF9FCFF</color>
+    <color name="grey">#666666</color>
+    <color name="dark_white">#A1FCFCFC</color>
+    <color name="soft_purple">#EEE5FF</color>
+    <color name="dark_red">#ED3D3D</color>
+
+    <color name="food_icon">#FFA500</color>
+    <color name="food_bg">#FFE5B4</color>
+    <color name="transport_icon">#1E90FF</color>
+    <color name="transport_bg">#D6ECFF</color>
+    <color name="bills_icon">#708090</color>
+    <color name="bills_bg">#E6E8EB</color>
+    <color name="enter_icon">#8A2BE2</color>
+    <color name="enter_bg">#D6BD9ED5</color>
+    <color name="house_icon">#008080</color>
+    <color name="house_bg">#D0F0F0</color>
+    <color name="shopping_icon">#FF69B4</color>
+    <color name="shopping_bg">#FFE0EF</color>
+    <color name="health_icon">#DC143C</color>
+    <color name="health_bg">#FFD6DC</color>
+    <color name="education_icon">#4169E1</color>
+    <color name="education_bg">#D9E2FF</color>
+    <color name="personal_icon">#FFB6C1</color>
+    <color name="personal_bg">#FFE6EB</color>
+    <color name="work_icon">#483D8B</color>
+    <color name="work_bg">#E0E4F8</color>
+    <color name="savings_icon">#228B22</color>
+    <color name="savings_bg">#D9F2D9</color>
+    <color name="travel_icon">#87CEEB</color>
+    <color name="travel_bg">#E1F5FF</color>
+    <color name="gift_icon">#FFD700</color>
+    <color name="gift_bg">#FFF7D0</color>
+    <color name="pets_icon">#CD853F</color>
+    <color name="pets_bg">#F5E6D4</color>
+    <color name="debt_icon">#800000</color>
+    <color name="debt_bg">#F2D1D1</color>
+    <color name="subscription_icon">#BA55D3</color>
+    <color name="subscription_bg">#F3D9FA</color>
 </resources>
+
+
+
+
+
+
+
+
+
+
